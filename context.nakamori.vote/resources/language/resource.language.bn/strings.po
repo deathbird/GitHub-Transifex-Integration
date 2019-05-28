@@ -1,10 +1,10 @@
 # Translators:
-# Transifex <nina@transifex.com>, 2019
+# Giannos Dimas <jack_dimas@yahoo.com>, 2019
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex <nina@transifex.com>, 2019\n"
-"Language-Team: Bengali (https://www.transifex.com/Transifex_Demo/teams/96613/bn/)\n"
+"Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2019\n"
+"Language-Team: Bengali (https://www.transifex.com/journeyman-ltd/teams/99568/bn/)\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
